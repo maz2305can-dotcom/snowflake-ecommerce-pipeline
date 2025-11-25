@@ -1,0 +1,4 @@
+CUSTOMER_ID,EMAIL,FIRST_NAME,LAST_NAME,COUNTRY,CREATED_AT
+CUST_001,jane.doe@example.com,Jane,Doe,CA,2023-01-15T10:00:00
+CUST_002,john.smith@example.com,John,Smith,US,2023-02-01T12:30:00
+CUST_003,sam.lee@example.com,Sam,Lee,GB,2023-03-10T09:15:00
